@@ -7,10 +7,12 @@ P.s This script was only tested in Windows OS looking forward for more platrform
 #Installation
 
 Open cmd in the project directory and type in:
+'''
 pip install -r requirements.txt
-
-Then lauch the script by typing
+'''
+Then lauch the script by typing:
+'''
 python wifieliminator.py
-
+'''
 And happy wifi killing!
 
